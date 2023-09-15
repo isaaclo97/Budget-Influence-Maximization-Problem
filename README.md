@@ -7,7 +7,7 @@ Social networks are in continuous evolution, and its spreading has attracted the
 * Quartil: Q2 - 57/190 - Computer Science, Artificial Intelligence | Q2 - 75/246 - Computer Science, Information Systems | 2021  <br>
 * Journal: Journal of Ambient Intelligence and Humanized Computing
 
-![Influencers](./imgs/influencers.jpg)
+![Influencers](./img/influencers.jpg)
 
 ## Datasets
 
