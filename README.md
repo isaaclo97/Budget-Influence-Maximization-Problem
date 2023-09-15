@@ -1,6 +1,11 @@
+![visitor badge](https://vbr.wocr.tk/badge?page_id=isaaclo97.Budget-Influence-Maximization-Problem&color=be54c6&style=flat&logo=Github)
+![Manintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub last commit (master)](https://img.shields.io/github/last-commit/isaaclo97/Budget-Influence-Maximization-Problem)
+![Starts](https://img.shields.io/github/stars/isaaclo97/Budget-Influence-Maximization-Problem.svg)
+
 # An efficient and effective GRASP algorithm for the Budget Influence Maximization Problem
 
-Social networks are in continuous evolution, and its spreading has attracted the interest of both practitioners and the scientific community. In the last decades, several new interesting problems have aroused in the context of social networks, mainly due to an overabundance of information, usually named as infodemic. This problem emerges in several areas, such as viral marketing, disease prediction and prevention, and misinformation, among others. Then, it is interesting to identify the most influential users in a network to analyze the information transmitted, resulting in Social Influence Maximization (SIM) problems. In this research, the Budget Influence Maximization Problem (BIMP) is tackled. BIMP proposes a realistic scenario where the cost of selecting each node is different1. This is modeled by having a budget that can be spent to select the users of a network, where each user has an associated cost. Since BIMP is a hard optimization problem, a metaheuristic algorithm based on Greedy Randomized Adaptive Search (GRASP) framework is proposed. 
+Social networks are in continuous evolution, and its spreading has attracted the interest of both practitioners and the scientific community. In the last decades, several new interesting problems have aroused in the context of social networks, mainly due to an overabundance of information, usually named as infodemic. This problem emerges in several areas, such as viral marketing, disease prediction and prevention, and misinformation, among others. Then, it is interesting to identify the most influential users in a network to analyze the information transmitted, resulting in Social Influence Maximization (SIM) problems. In this research, the Budget Influence Maximization Problem (BIMP) is tackled. BIMP proposes a realistic scenario where the cost of selecting each node is different. This is modeled by having a budget that can be spent to select the users of a network, where each user has an associated cost. Since BIMP is a hard optimization problem, a metaheuristic algorithm based on Greedy Randomized Adaptive Search (GRASP) framework is proposed. 
 
 * Paper link: <https://doi.org/10.1007/s12652-023-04680-z>
 * Impact Factor: 3.662
@@ -11,13 +16,13 @@ Social networks are in continuous evolution, and its spreading has attracted the
 
 ## Datasets
 
-* [soc-Epinions1](#)
-* [HC Twitter](#)
-* [CA-CondMa](#)
-* [CA-HepT](#)
+* [soc-Epinions1](https://snap.stanford.edu/data/soc-Epinions1.html)
+* [CA-CondMa](https://snap.stanford.edu/data/ca-CondMat.html)
+* [CA-HepT](https://snap.stanford.edu/data/ca-HepTh.html)
+* [HC Twitter](./twitter/)
 
 
-All txt format instances can be found in instances folder.
+All txt format instances can be found also in instances folder.
 
 ## Source code
 

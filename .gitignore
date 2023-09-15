@@ -1,0 +1,4 @@
+source/.idea/*
+source/src/.idea/*
+source/target/*
+source/out/*
