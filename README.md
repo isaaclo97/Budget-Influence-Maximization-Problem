@@ -40,8 +40,16 @@ The following excel document contains all the final results divided by instance.
 
 You can just run the BIMP.jar as follows.
 
+All the parameters can be customized in the following file: ./source/src/main/resources/application.yml
+
 ```
-java -jar BIMP.jar
+java -jar BIMP.jar --instances.path.default="./instances"
+```
+
+Also you can modify the parameters in the launch command, for instance:
+
+```
+java -jar BIMP.jar ---instances.path.default="./instances" --algorithm.proyectName="GRASP_1" --algorithm.FO=2 
 ```
 
 If you want new instances just replace folder instances.
